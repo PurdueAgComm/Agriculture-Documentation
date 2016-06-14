@@ -28,6 +28,10 @@ Required module for several modules, like Views.
 
 Flexibile date field and API that allows other modules to use.
 
+##[LDAP](https://www.drupal.org/project/ldap)
+
+Provides access to tokens for use on profiles.
+
 ##[Module Filter](https://www.drupal.org/project/module_filter)
 
 Provides an organized UI for viewing module administration.
@@ -35,6 +39,10 @@ Provides an organized UI for viewing module administration.
 ##[Redirect](https://www.drupal.org/project/redirect)
 
 Organizes 404 errors and allows users to easily create proper redirects.
+
+##[Token](https://www.drupal.org/project/token)
+
+Provides access to tokens for use on profiles.
 
 ##[Views](https://www.drupal.org/project/views)
 

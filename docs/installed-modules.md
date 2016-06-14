@@ -8,6 +8,10 @@ Update menu for administrations to add quick-access functionality.
 
 Authentication module to login using Purdue Career Accounts.
 
+##[CAS Attributes](https://www.drupal.org/project/cas_attributes)
+
+Allows you to retrieve information from CAS and save it to Drupal entities.
+
 ##[CK Editor](https://www.drupal.org/project/ckeditor)
 
 WYSIWYG Editor for Purdrupal.
